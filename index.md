@@ -49,10 +49,10 @@ In alignment with our course guidelines, you are highly encouraged to use genera
 ---
 
 ## 🏛️ Quick Links
-*   **MDC Portals:** [Miami Dade College](https://mdc.edu) | [MDC Canvas](https://mdc.edu)
+*   **MDC Portals:** [Miami Dade College](https://mdc.edu) \| [MDC Canvas](https://mdc.edu)
 *   **Interactive Practice:** [zyBooks Platform](https://zybooks.com)
-*   **Self-Study Tools:** [W3Schools Tutorial](https://w3schools.com) | [Python Standard Documentation](https://python.org)
+*   **Self-Study Tools:** [W3Schools Tutorial](https://w3schools.com) \| [Python Standard Documentation](https://python.org)
 
 ***
 
-*Instructor: John Masseria (jmasseri@mdc.edu) | West Campus - School of Engineering & Technology*
+*Instructor: John Masseria (jmasseri@mdc.edu) \| West Campus - School of Engineering & Technology*
